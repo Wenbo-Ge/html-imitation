@@ -47,7 +47,7 @@
 		.content p {
 			font-size: 1rem;
 		}
-		/*.test {
+		.test {
 			background-color: blue;
 			position: absolute;
 			top: 50vh;
@@ -56,7 +56,7 @@
 			height: 100px;
 			margin-top: -50px;
 			margin-left: -50px;
-		}*/
+		}
 	</style>
 </head>
 <body>
